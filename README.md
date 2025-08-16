@@ -18,7 +18,7 @@ Esc — выход из игры
 Проект распространяется под лицензией MIT.
 
 ## Рабочий билд
-[Скачать Flappy Square (Windows .exe)](https://github.com/username/repo/releases/latest)
+[Скачать Flappy Square (Windows .exe)](https://github.com/TheV1RuS/game_mag_flappy/releases/latest)
 
 ## Запуск
 Выполнить flappy.exe
